@@ -23,7 +23,7 @@ export const data=[
         name:"Real Time Chat App",
         image:ChatApp,
         github:"https://github.com/Gokul-Ks/chat-app",
-        live:"",
+        live:"https://637d25be33534d1feafacad7--harmonious-fairy-43ed74.netlify.app/",
     },
     {
         id:4,
